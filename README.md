@@ -3,6 +3,13 @@
 ## Webサイト作成
 基本を学ぶ、学習サイト無料範囲を活用
 
+
+### 入門者用の解説サイトで学習
+良さそうだったサイトを列挙
+https://tech.mti.co.jp/entry/2017/07/21/573/
+
+https://qiita.com/shuntaro_tamura/items/c9b2fec0f3a9f7d1e987
+
 ### progate
 環境構築不要で学習サイト内でレッスンが完結する。
 
